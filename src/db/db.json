@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "name": "Shelley Murazik",
+    "phone": "452.711.5552 x052",
+    "email": "Garry_Wintheiser26@yahoo.com",
+    "job": "Senior Security Coordinator"
+  },
+  {
+    "name": "Gerard Yundt",
+    "phone": "1-206-463-0980 x488",
+    "email": "Hipolito58@hotmail.com",
+    "job": "Product Accounts Analyst"
+  },
+  {
+    "name": "Doris Lubowitz MD",
+    "phone": "288.540.6164 x4235",
+    "email": "Dina.Marquardt16@gmail.com",
+    "job": "Direct Security Strategist"
+  }
+]
