@@ -15,4 +15,4 @@ const generateContacts = async (number) => {
     console.error('Помилка запису у файл:', err);
   }
 };
-await generateContacts(3);
+await generateContacts(5);
